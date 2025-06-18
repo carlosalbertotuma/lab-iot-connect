@@ -28,6 +28,6 @@ am broadcast -a MASTER_ON --ei key 345
 ![image](https://github.com/user-attachments/assets/23e00328-d698-4c3e-87d5-3d646a57fb03)
 
 https://riptutorial.com/android/example/10642/sending-broadcast
-
+https://github.com/Linuxndroid/ADB-Cheat-Sheet/blob/main/README.md
 
 https://www.mobilehackinglab.com/path-player?courseid=lab-iot-connect
